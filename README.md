@@ -28,6 +28,7 @@ Questions submitted starting from 22 June 2026
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -64,4 +65,20 @@ Questions submitted starting from 22 June 2026
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
