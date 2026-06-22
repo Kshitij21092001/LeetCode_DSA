@@ -36,6 +36,7 @@ Questions submitted starting from 22 June 2026
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -50,11 +51,17 @@ Questions submitted starting from 22 June 2026
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
