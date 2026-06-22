@@ -69,10 +69,12 @@ Questions submitted starting from 22 June 2026
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
