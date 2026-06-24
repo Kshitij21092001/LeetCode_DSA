@@ -91,6 +91,7 @@ Questions submitted starting from 22 June 2026
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Questions submitted starting from 22 June 2026
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
