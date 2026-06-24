@@ -45,6 +45,7 @@ Questions submitted starting from 22 June 2026
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Union-Find
 |  |
@@ -61,6 +62,7 @@ Questions submitted starting from 22 June 2026
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -69,11 +71,13 @@ Questions submitted starting from 22 June 2026
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +99,7 @@ Questions submitted starting from 22 June 2026
 ## Dynamic Programming
 |  |
 | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
