@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Language-C++-orange?style=for-the-badge&logo=openjdk" />
 <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
 <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge" />
