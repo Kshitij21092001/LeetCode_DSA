@@ -11,6 +11,7 @@ Questions submitted starting from 22 June 2026
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Questions submitted starting from 22 June 2026
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -106,11 +108,13 @@ Questions submitted starting from 22 June 2026
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +127,7 @@ Questions submitted starting from 22 June 2026
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,6 +146,7 @@ Questions submitted starting from 22 June 2026
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Memoization
 |  |
 | ------- |
