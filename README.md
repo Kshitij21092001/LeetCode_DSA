@@ -1,5 +1,99 @@
-# LeetCode_DSA
-Questions submitted starting from 22 June 2026
+# LeetCode DSA
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=for-the-badge" />
+
+</p>
+
+---
+
+## About
+
+This repository contains my accepted solutions to LeetCode problems implemented in **Java**.
+
+The repository serves as a record of my Data Structures and Algorithms practice, with solutions automatically synchronized using **LeetHub**. Problems are organized by topic, making it easy to explore different algorithmic patterns and data structures.
+
+---
+
+## Goals
+
+* Strengthen problem-solving skills
+* Build proficiency in Data Structures and Algorithms
+* Prepare for technical interviews
+* Maintain a consistent coding practice
+
+---
+
+## Tech Stack
+
+| Category        | Technology    |
+| --------------- | ------------- |
+| Language        | C++           |
+| Platform        | LeetCode      |
+| IDE             | IntelliJ IDEA |
+| Version Control | Git & GitHub  |
+
+---
+
+## Topics Covered
+
+* Arrays
+* Strings
+* Hash Tables
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Binary Trees
+* Binary Search Trees
+* Graphs
+* Heap / Priority Queue
+* Greedy
+* Sliding Window
+* Two Pointers
+* Prefix Sum
+* Binary Search
+* Dynamic Programming
+* Backtracking
+* Depth First Search
+* Breadth First Search
+* Divide and Conquer
+* Union Find
+* Segment Tree
+* Sorting
+* Counting Sort
+* Memoization
+* Math
+* Combinatorics
+
+Additional topics will be added as the repository grows.
+
+---
+
+## Repository Structure
+
+```text
+LeetCode_DSA/
+│
+├── Problem Name/
+│   ├── README.md
+│   └── Solution.java
+│
+├── Problem Name/
+│   ├── README.md
+│   └── Solution.java
+│
+└── README.md
+```
+
+---
+
+The sections below are maintained automatically as new problems are solved and synchronized using LeetHub.
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
