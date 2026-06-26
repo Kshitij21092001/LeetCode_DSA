@@ -13,7 +13,7 @@
 
 ## About
 
-This repository contains my accepted solutions to LeetCode problems implemented in **Java**.
+This repository contains my accepted solutions to LeetCode problems implemented in **C++**.
 
 The repository serves as a record of my Data Structures and Algorithms practice, with solutions automatically synchronized using **LeetHub**. Problems are organized by topic, making it easy to explore different algorithmic patterns and data structures.
 
