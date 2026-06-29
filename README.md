@@ -112,6 +112,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +124,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
