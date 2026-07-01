@@ -125,6 +125,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -138,6 +139,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -235,6 +237,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
