@@ -103,6 +103,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -118,11 +119,13 @@ The sections below are maintained automatically as new problems are solved and s
 ## Counting
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
@@ -135,6 +138,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Greedy
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -142,6 +146,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -284,6 +289,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
