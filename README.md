@@ -135,6 +135,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -180,6 +181,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +245,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -298,6 +302,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -307,4 +312,9 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
