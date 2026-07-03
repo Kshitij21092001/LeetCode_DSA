@@ -128,6 +128,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -213,6 +214,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Linked List
