@@ -279,6 +279,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
