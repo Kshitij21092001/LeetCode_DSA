@@ -332,6 +332,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sliding Window
 |  |
