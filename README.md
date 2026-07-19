@@ -118,6 +118,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -163,6 +164,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -346,6 +348,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -402,4 +405,8 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
