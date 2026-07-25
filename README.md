@@ -137,6 +137,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
+| [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
@@ -297,6 +298,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
+| [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -331,6 +333,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0007-reverse-integer) |
+| [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -431,4 +434,12 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
