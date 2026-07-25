@@ -190,6 +190,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -337,6 +338,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
