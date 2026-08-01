@@ -118,6 +118,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -221,6 +222,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0099-recover-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -257,6 +259,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -272,6 +275,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -485,4 +489,8 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
