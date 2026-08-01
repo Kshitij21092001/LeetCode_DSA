@@ -222,6 +222,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -256,6 +257,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -269,6 +271,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -469,4 +472,12 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
