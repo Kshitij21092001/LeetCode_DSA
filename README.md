@@ -158,6 +158,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1732-find-the-highest-altitude](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
@@ -351,6 +352,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
