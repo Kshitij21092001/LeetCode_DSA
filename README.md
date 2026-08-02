@@ -151,6 +151,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1260-shift-2d-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
@@ -341,6 +342,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -380,6 +382,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0007-reverse-integer](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -492,6 +495,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
