@@ -157,6 +157,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1288-remove-covered-intervals](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -345,6 +346,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -383,6 +385,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -496,6 +499,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -516,4 +520,12 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
