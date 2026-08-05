@@ -243,6 +243,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -259,6 +260,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
@@ -377,6 +379,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
 | ------- |
