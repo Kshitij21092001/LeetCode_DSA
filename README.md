@@ -128,6 +128,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -198,6 +199,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -329,6 +331,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -355,6 +358,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3620-network-recovery-pathways) |
