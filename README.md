@@ -108,6 +108,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -174,6 +175,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2574-left-and-right-sum-differences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -219,6 +221,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
