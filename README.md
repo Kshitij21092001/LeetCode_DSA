@@ -128,6 +128,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -174,6 +175,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -429,6 +431,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -571,4 +574,8 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
