@@ -169,6 +169,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -373,6 +374,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -417,6 +419,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -542,6 +545,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
