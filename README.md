@@ -366,6 +366,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
