@@ -127,6 +127,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
@@ -401,6 +402,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
