@@ -292,6 +292,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3310-remove-methods-from-project) |
@@ -333,6 +334,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +352,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
