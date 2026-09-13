@@ -173,6 +173,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
+| [0835-image-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
@@ -552,6 +553,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
