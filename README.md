@@ -468,6 +468,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0007-reverse-integer](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1406-stone-game-iii) |
@@ -673,4 +674,8 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
