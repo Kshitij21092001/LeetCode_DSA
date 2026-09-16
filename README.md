@@ -426,6 +426,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -439,6 +440,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -479,6 +481,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1510-stone-game-iv](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1927-sum-game) |
@@ -519,6 +522,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
