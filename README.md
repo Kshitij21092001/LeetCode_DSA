@@ -105,6 +105,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +138,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -273,6 +275,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -475,6 +478,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -553,6 +557,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -669,6 +674,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
 |  |
