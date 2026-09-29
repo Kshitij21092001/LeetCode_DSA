@@ -213,6 +213,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -450,6 +451,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -599,6 +601,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0835-image-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -727,4 +730,5 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
