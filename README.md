@@ -100,6 +100,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -170,6 +171,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -185,6 +187,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0135-candy) |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
@@ -279,6 +282,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -428,6 +432,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -596,6 +601,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
@@ -629,6 +635,7 @@ The sections below are maintained automatically as new problems are solved and s
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
@@ -744,4 +751,8 @@ The sections below are maintained automatically as new problems are solved and s
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
