@@ -136,6 +136,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -446,6 +447,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
@@ -572,6 +574,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
@@ -747,6 +750,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
