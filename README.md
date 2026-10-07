@@ -140,6 +140,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0115-distinct-subsequences](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0856-score-of-parentheses) |
@@ -500,6 +501,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
@@ -710,6 +712,7 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
