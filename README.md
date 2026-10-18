@@ -811,4 +811,8 @@ The sections below are maintained automatically as new problems are solved and s
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
