@@ -276,6 +276,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [3886-sum-of-sortable-integers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
