@@ -209,6 +209,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0877-stone-game](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0877-stone-game) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1140-stone-game-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -361,6 +362,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0652-find-duplicate-subtrees](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -371,6 +373,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -536,6 +539,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -668,6 +672,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
