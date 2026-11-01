@@ -201,6 +201,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0692-top-k-frequent-words) |
@@ -560,6 +561,7 @@ The sections below are maintained automatically as new problems are solved and s
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0836-rectangle-overlap) |
