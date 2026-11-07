@@ -233,6 +233,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [1840-maximum-building-height](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2029-stone-game-ix) |
@@ -690,6 +691,7 @@ The sections below are maintained automatically as new problems are solved and s
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1054-distant-barcodes](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1054-distant-barcodes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kshitij21092001/LeetCode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
